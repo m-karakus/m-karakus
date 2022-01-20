@@ -95,7 +95,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/metin-karakus/test/pull/1) in [metin-karakus/test](https://github.com/metin-karakus/test)
+1. 🗣 Commented on [#1893](https://github.com/kubernetes/kubeadm/issues/1893) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
 <!--END_SECTION:activity-->
 
 </details>
