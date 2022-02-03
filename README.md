@@ -95,7 +95,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1893](https://github.com/kubernetes/kubeadm/issues/1893) in [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm)
+1. 🗣 Commented on [#2561](https://github.com/projectcalico/calico/issues/2561) in [projectcalico/calico](https://github.com/projectcalico/calico)
 <!--END_SECTION:activity-->
 
 </details>
