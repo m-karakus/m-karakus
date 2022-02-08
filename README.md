@@ -80,7 +80,7 @@
 ### ▶️ Latest YouTube Videos
 
 <!-- YouTube:START -->
-- [1  Kubernetis Amaç ve Harita](https://www.youtube.com/watch?v=Q12XzblmOKY)
+- [1- Kubernetes Amaç ve Harita](https://www.youtube.com/watch?v=Q12XzblmOKY)
 - [Linux - Ubuntu bilgisayara Apache Spark Yükleme](https://www.youtube.com/watch?v=oFHhVpzn0xE)
 <!-- YouTube:END -->
 
