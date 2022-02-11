@@ -80,6 +80,7 @@
 ### ▶️ Latest YouTube Videos
 
 <!-- YouTube:START -->
+- [4- Kubernetes Calico Kurulumu &lpar;on-premise&rpar;](https://www.youtube.com/watch?v=oZQycLXn3GA)
 - [3- Kubernetes Kurulum Centos7](https://www.youtube.com/watch?v=LRMoQRoSKM4)
 - [2- VirtualBox ile Ubuntu Server Kurulumu](https://www.youtube.com/watch?v=uoOJBJYPnkc)
 - [1- Kubernetes Amaç ve Harita](https://www.youtube.com/watch?v=Q12XzblmOKY)
