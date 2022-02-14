@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos
 
 <!-- YouTube:START -->
+- [8- Kubernetes Prometheus-Grafana](https://www.youtube.com/watch?v=Z1aaPTv4fF0)
+- [7-  Kubernetes Helm Indirme](https://www.youtube.com/watch?v=GHSHEhizBic)
 - [6 - Kubernetes ArgoCD](https://www.youtube.com/watch?v=0KFc8W9ThPg)
 - [5-  Kubernetes MetalLB](https://www.youtube.com/watch?v=NB32U1YzVt4)
 - [4- Kubernetes Calico Kurulumu &lpar;on-premise&rpar;](https://www.youtube.com/watch?v=oZQycLXn3GA)
-- [3- Kubernetes Kurulum Centos7](https://www.youtube.com/watch?v=LRMoQRoSKM4)
-- [2- VirtualBox ile Ubuntu Server Kurulumu](https://www.youtube.com/watch?v=uoOJBJYPnkc)
 <!-- YouTube:END -->
 
 ---
