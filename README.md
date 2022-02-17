@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos
 
 <!-- YouTube:START -->
+- [9- ArgoCD Jenkins Deployment](https://www.youtube.com/watch?v=Z2ErDEM5cj0)
 - [8- Kubernetes Prometheus-Grafana](https://www.youtube.com/watch?v=Z1aaPTv4fF0)
 - [7-  Kubernetes Helm Indirme](https://www.youtube.com/watch?v=GHSHEhizBic)
 - [6 - Kubernetes ArgoCD](https://www.youtube.com/watch?v=0KFc8W9ThPg)
 - [5-  Kubernetes MetalLB](https://www.youtube.com/watch?v=NB32U1YzVt4)
-- [4- Kubernetes Calico Kurulumu &lpar;on-premise&rpar;](https://www.youtube.com/watch?v=oZQycLXn3GA)
 <!-- YouTube:END -->
 
 ---
