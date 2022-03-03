@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos
 
 <!-- YouTube:START -->
+- [Güzel bir linux terminal nasıl yapılır?](https://www.youtube.com/watch?v=MV15GmwWOGk)
 - [12- Traefik - Kubernetes](https://www.youtube.com/watch?v=8V2Lmrr09-g)
 - [11- Kubernetes içerisine Jenkins indirme](https://www.youtube.com/watch?v=cGRnsJvxa2Y)
 - [10- Kubernetes nfs persostent volume](https://www.youtube.com/watch?v=ug6XmM_WPm0)
 - [9- ArgoCD Jenkins Deployment](https://www.youtube.com/watch?v=Z2ErDEM5cj0)
-- [8- Kubernetes Prometheus-Grafana](https://www.youtube.com/watch?v=Z1aaPTv4fF0)
 <!-- YouTube:END -->
 
 ---
