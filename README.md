@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos
 
 <!-- YouTube:START -->
+- [14- Kubernetes Traefik III -- Free SSL - Cert Manager](https://www.youtube.com/watch?v=j_IdYm0g4JA)
 - [13- Kubernetes Traefik II](https://www.youtube.com/watch?v=FFSfnsqaMbM)
 - [How to install Ubuntu Desktop on VirtualBox?](https://www.youtube.com/watch?v=SLw-ro5Ie_o)
 - [Güzel bir linux terminal nasıl yapılır?](https://www.youtube.com/watch?v=MV15GmwWOGk)
 - [12- Traefik - Kubernetes](https://www.youtube.com/watch?v=8V2Lmrr09-g)
-- [11- Kubernetes içerisine Jenkins indirme](https://www.youtube.com/watch?v=cGRnsJvxa2Y)
 <!-- YouTube:END -->
 
 ---
