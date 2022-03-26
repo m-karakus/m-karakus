@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos
 
 <!-- YouTube:START -->
+- [How to install docker?](https://www.youtube.com/watch?v=ZtAeV8G7zm8)
 - [16- Kubernetes Yorumlar](https://www.youtube.com/watch?v=EZuu6EjtE3A)
 - [15- Istio service mesh Kubernetes](https://www.youtube.com/watch?v=ehSHmV-EiSw)
 - [14- Kubernetes Traefik III -- Free SSL - Cert Manager](https://www.youtube.com/watch?v=j_IdYm0g4JA)
 - [13- Kubernetes Traefik II](https://www.youtube.com/watch?v=FFSfnsqaMbM)
-- [How to install Ubuntu Desktop on VirtualBox?](https://www.youtube.com/watch?v=SLw-ro5Ie_o)
 <!-- YouTube:END -->
 
 ---
