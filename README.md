@@ -2,7 +2,7 @@
 
 ## I'm a Data Analyst
 
-- 🌱 I’m currently learning NLP
+- 💪 I am an expert data scientist/data analysts
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ 2022 Goals: Contribute more to Open Source projects
 
@@ -77,7 +77,7 @@
 ---
 
 
-### ▶️ Latest YouTube Videos
+### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
 - [Ücretsiz webcam mi?](https://www.youtube.com/watch?v=9XCFe5WFlWI)
@@ -86,6 +86,10 @@
 - [15- Istio service mesh Kubernetes](https://www.youtube.com/watch?v=ehSHmV-EiSw)
 - [14- Kubernetes Traefik III -- Free SSL - Cert Manager](https://www.youtube.com/watch?v=j_IdYm0g4JA)
 <!-- YouTube:END -->
+
+### ▶️ Latest YouTube Videos English
+<!-- YouTubeEN:START -->
+<!-- YouTubeEN:END -->
 
 ---
 <details>
