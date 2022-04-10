@@ -91,9 +91,6 @@
 <!-- YouTubeEN:START -->
 - [How can you use your phone as webcam?](https://www.youtube.com/watch?v=D8Ft7YEvaD4)
 - [How to install Docker?](https://www.youtube.com/watch?v=DRtxbzYJ1V4)
-- [Eba Tv Kurulum | Eba Kanal Ayarı](https://www.youtube.com/watch?v=3ThwGfhdmFE)
-- [KOSGEB Vekalet Yükleme](https://www.youtube.com/watch?v=B1tRdqlOcww)
-- [34con Jenerik](https://www.youtube.com/watch?v=2bwCVzLUlXk)
 <!-- YouTubeEN:END -->
 
 ---
