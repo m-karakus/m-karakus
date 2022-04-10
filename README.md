@@ -80,7 +80,7 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
-- [Ücretsiz webcam mi?](https://www.youtube.com/watch?v=9XCFe5WFlWI)
+- [Ücretsiz webcam! Telefon kamerasını bilgisayar da nasıl kullanırsın?](https://www.youtube.com/watch?v=9XCFe5WFlWI)
 - [How to install docker?](https://www.youtube.com/watch?v=ZtAeV8G7zm8)
 - [16- Kubernetes Yorumlar](https://www.youtube.com/watch?v=EZuu6EjtE3A)
 - [15- Istio service mesh Kubernetes](https://www.youtube.com/watch?v=ehSHmV-EiSw)
