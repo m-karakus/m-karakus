@@ -105,7 +105,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2561](https://github.com/projectcalico/calico/issues/2561) in [projectcalico/calico](https://github.com/projectcalico/calico)
+1. 🗣 Commented on [#133](https://github.com/hng/tech-coops/issues/133) in [hng/tech-coops](https://github.com/hng/tech-coops)
 <!--END_SECTION:activity-->
 
 </details>
