@@ -62,10 +62,10 @@
 <img  align="left" alt="vim" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" />
 <img  align="left" alt="yaml" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png" />
 <img  align="left" alt="googletagmanager" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/googletagmanager.svg" />
-<img  align="left" alt="googleanalytics" width="26px" src="https://symbols.getvecta.com/stencil_82/30_google-analytics-image.5a0d7b7836.svg" />
-<img  align="left" alt="goodreads" width="26px" src="https://symbols.getvecta.com/stencil_82/22_google-ads-official.894dfcf104.svg" />
+<img  align="left" alt="googleanalytics" width="26px" src="https://avatars.githubusercontent.com/u/4327788?s=200&v=4" />
+<img  align="left" alt="googleads" width="26px" src="https://symbols.getvecta.com/stencil_3/7_google-adsense.3e1237d0dc.svg" />
 <img  align="left" alt="apachekafka" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/apachekafka.svg" />
-<img  align="left" alt="Power BI" width="26px" src="https://symbols.getvecta.com/stencil_75/69_bigquery-icon.0925fbc87f.svg" />
+<img  align="left" alt="Bigquery" width="26px" src="https://symbols.getvecta.com/stencil_4/10_google-bigquery.0f26b56a8d.svg" />
 <img  align="left" alt="tableau" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tableau.svg" />
 <img  align="left" alt="Power BI" width="26px" src="https://symbols.getvecta.com/stencil_92/29_power-bi-icon.11ebadde0e.svg" />
 
