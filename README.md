@@ -67,7 +67,7 @@
 <img  align="left" alt="apachekafka" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/apachekafka.svg" />
 <img  align="left" alt="Bigquery" width="26px" src="https://symbols.getvecta.com/stencil_4/10_google-bigquery.0f26b56a8d.svg" />
 <img  align="left" alt="tableau" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tableau.svg" />
-<img  align="left" alt="Power BI" width="26px" src="https://symbols.getvecta.com/stencil_92/29_power-bi-icon.11ebadde0e.svg" />
+<img  align="left" alt="Power BI" width="26px" src="https://symbols.getvecta.com/stencil_28/82_power-bi-embedded.f4f627a89b.svg" />
 
 <br />
 <br />
