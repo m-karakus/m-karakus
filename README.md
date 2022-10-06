@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Tag Manager ile Google Ads Enhanced Conversions Tracking](https://www.youtube.com/watch?v=FMH7rleZ7kA)
 - [kubernetes üzerine elasticsearch kurulumu nasıl yapılır](https://www.youtube.com/watch?v=mPEhgLpC--A)
 - [Ücretsiz webcam! Telefon kamerasını bilgisayar da nasıl kullanırsın?](https://www.youtube.com/watch?v=9XCFe5WFlWI)
 - [How to install docker?](https://www.youtube.com/watch?v=ZtAeV8G7zm8)
 - [16- Kubernetes Yorumlar](https://www.youtube.com/watch?v=EZuu6EjtE3A)
-- [15- Istio service mesh Kubernetes](https://www.youtube.com/watch?v=ehSHmV-EiSw)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
