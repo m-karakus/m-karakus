@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
-- [Veri bilimci ne kadar kazanır? #shorts #veribilimi](https://www.youtube.com/watch?v=j_iNefeXXZc)
 - [kdenlive](https://www.youtube.com/watch?v=KHuc7oC1nnQ)
 - [veri bilimi kursu başlıyor! #shorts](https://www.youtube.com/watch?v=SMs_e6LXeTQ)
 - [OBS ile arka planı değiştirmek](https://www.youtube.com/watch?v=6zVHSf6Ak54)
 - [Virtualbox&#39;a  Windows 10 nasıl kurulur?](https://www.youtube.com/watch?v=az6gx71Ktao)
+- [Tag Manager ile Google Ads Enhanced Conversions Tracking](https://www.youtube.com/watch?v=FMH7rleZ7kA)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
