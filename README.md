@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [GitHub ve Git](https://www.youtube.com/watch?v=mHP2YnD9J-U)
 - [Veri Bilimi Kursu Girizgah](https://www.youtube.com/watch?v=hn2-rTr5k2o)
 - [Veri bilimci ne kadar kazanır? #shorts #veribilimi](https://www.youtube.com/watch?v=j_iNefeXXZc)
 - [kdenlive](https://www.youtube.com/watch?v=KHuc7oC1nnQ)
 - [veri bilimi kursu başlıyor! #shorts](https://www.youtube.com/watch?v=SMs_e6LXeTQ)
-- [OBS ile arka planı değiştirmek](https://www.youtube.com/watch?v=6zVHSf6Ak54)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
