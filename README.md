@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Virtual Box üzerine Linux Lite kurulumu](https://www.youtube.com/watch?v=gQtZbUX2zHQ)
 - [Virtual Box Indirme | Neden Linux Bilmelisin? | Virtual Box Ne İşe Yarar?](https://www.youtube.com/watch?v=EH-354H0ne8)
 - [GitHub ve Git](https://www.youtube.com/watch?v=mHP2YnD9J-U)
 - [Veri Bilimi Kursu Girizgah](https://www.youtube.com/watch?v=hn2-rTr5k2o)
 - [Veri bilimci ne kadar kazanır? #shorts #veribilimi](https://www.youtube.com/watch?v=j_iNefeXXZc)
-- [kdenlive](https://www.youtube.com/watch?v=KHuc7oC1nnQ)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
