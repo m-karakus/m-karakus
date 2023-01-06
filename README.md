@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Container &lpar;Konteyner&rpar; teknolojisi](https://www.youtube.com/watch?v=blCGrtMtnIw)
 - [İş bulma derdi mi :&rpar; #shorts](https://www.youtube.com/watch?v=A7QOUdDjwkk)
 - [Visual Studio Code - VScode](https://www.youtube.com/watch?v=kJp-Y0OzICo)
 - [VirtualBox Dosya Paylasimi](https://www.youtube.com/watch?v=AssADj1RJ5U)
 - [Virtual Box üzerine Linux Lite kurulumu](https://www.youtube.com/watch?v=gQtZbUX2zHQ)
-- [Virtual Box Indirme | Neden Linux Bilmelisin? | Virtual Box Ne İşe Yarar?](https://www.youtube.com/watch?v=EH-354H0ne8)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
