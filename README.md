@@ -80,7 +80,7 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
-- [İş bulma derdi mi :&rpar; #shorts #veribilimi](https://www.youtube.com/watch?v=A7QOUdDjwkk)
+- [İş bulma derdi mi :&rpar; #shorts](https://www.youtube.com/watch?v=A7QOUdDjwkk)
 - [Visual Studio Code - VScode](https://www.youtube.com/watch?v=kJp-Y0OzICo)
 - [VirtualBox Dosya Paylasimi](https://www.youtube.com/watch?v=AssADj1RJ5U)
 - [Virtual Box üzerine Linux Lite kurulumu](https://www.youtube.com/watch?v=gQtZbUX2zHQ)
