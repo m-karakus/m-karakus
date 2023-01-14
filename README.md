@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Postgres Kurulumu ve Örnek Veri Yükleme - #postgresql #dockercompose](https://www.youtube.com/watch?v=Ez0kpFdbtm0)
 - [Veritabanı nedir? Data ve Database kavramları](https://www.youtube.com/watch?v=BqlIB-TJiNw)
 - [Docker Kurmak, Nasıl indirilir?](https://www.youtube.com/watch?v=s9NGXGRLXL4)
 - [Container &lpar;Konteyner&rpar; teknolojisi](https://www.youtube.com/watch?v=blCGrtMtnIw)
 - [İş bulma derdi mi :&rpar; #shorts](https://www.youtube.com/watch?v=A7QOUdDjwkk)
-- [Visual Studio Code - VScode](https://www.youtube.com/watch?v=kJp-Y0OzICo)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
