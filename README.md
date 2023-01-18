@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [SQL Komutları:  Order by ve Distinct](https://www.youtube.com/watch?v=YTT0utDyKeY)
+- [SQL Komutları: Select ve Alias](https://www.youtube.com/watch?v=UxZb4cmzwxY)
 - [Postgres Kurulumu ve Örnek Veri Yükleme - #postgresql #dockercompose](https://www.youtube.com/watch?v=Ez0kpFdbtm0)
 - [Veritabanı nedir? Data ve Database kavramları](https://www.youtube.com/watch?v=BqlIB-TJiNw)
 - [Docker Kurmak, Nasıl indirilir?](https://www.youtube.com/watch?v=s9NGXGRLXL4)
-- [Container &lpar;Konteyner&rpar; teknolojisi](https://www.youtube.com/watch?v=blCGrtMtnIw)
-- [İş bulma derdi mi :&rpar; #shorts](https://www.youtube.com/watch?v=A7QOUdDjwkk)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
