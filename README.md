@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [SQL Komutları: Join Tipleri](https://www.youtube.com/watch?v=z1VtVGqFESo)
 - [SQL Komutları: In, Between ve Like](https://www.youtube.com/watch?v=MDmJUMt_19o)
 - [SQL Komutları: Where, Limit ve Fetch](https://www.youtube.com/watch?v=5O6Khj-pGyg)
 - [SQL Komutları:  Order by ve Distinct](https://www.youtube.com/watch?v=YTT0utDyKeY)
 - [SQL Komutları: Select ve Alias](https://www.youtube.com/watch?v=UxZb4cmzwxY)
-- [Postgres Kurulumu ve Örnek Veri Yükleme - #postgresql #dockercompose](https://www.youtube.com/watch?v=Ez0kpFdbtm0)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
