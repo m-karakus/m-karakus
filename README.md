@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [SQL Komutları:  Intersect](https://www.youtube.com/watch?v=3LjvqO5U5oU)
+- [SQL Komutları: Union ve Union All](https://www.youtube.com/watch?v=51DIvPMXAjE)
+- [SQL Komutları:  Group by ve Having](https://www.youtube.com/watch?v=SNJy_38C7Bg)
 - [SQL Komutları: Join Tipleri](https://www.youtube.com/watch?v=z1VtVGqFESo)
 - [SQL Komutları: In, Between ve Like](https://www.youtube.com/watch?v=MDmJUMt_19o)
-- [SQL Komutları: Where, Limit ve Fetch](https://www.youtube.com/watch?v=5O6Khj-pGyg)
-- [SQL Komutları:  Order by ve Distinct](https://www.youtube.com/watch?v=YTT0utDyKeY)
-- [SQL Komutları: Select ve Alias](https://www.youtube.com/watch?v=UxZb4cmzwxY)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
