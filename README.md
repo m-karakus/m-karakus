@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Brave #shorts](https://www.youtube.com/watch?v=rCDpluyV_1g)
 - [SQL Komutları:  Subquery  ve Exist](https://www.youtube.com/watch?v=VPTKjuSW6jE)
 - [SQL Komutları:  Intersect](https://www.youtube.com/watch?v=3LjvqO5U5oU)
 - [SQL Komutları: Union ve Union All](https://www.youtube.com/watch?v=51DIvPMXAjE)
 - [SQL Komutları:  Group by ve Having](https://www.youtube.com/watch?v=SNJy_38C7Bg)
-- [SQL Komutları: Join Tipleri](https://www.youtube.com/watch?v=z1VtVGqFESo)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
