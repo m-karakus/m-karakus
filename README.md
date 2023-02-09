@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [2fa #shorts](https://www.youtube.com/watch?v=e4lp7y__MdM)
 - [SQL Komutları:  Insert - Update - Delete,  DML &lpar;Data Manipulation Language&rpar;](https://www.youtube.com/watch?v=0XGSlAsyzoU)
 - [Brave #shorts](https://www.youtube.com/watch?v=rCDpluyV_1g)
 - [SQL Komutları:  Subquery  ve Exist](https://www.youtube.com/watch?v=VPTKjuSW6jE)
 - [SQL Komutları:  Intersect](https://www.youtube.com/watch?v=3LjvqO5U5oU)
-- [SQL Komutları: Union ve Union All](https://www.youtube.com/watch?v=51DIvPMXAjE)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
