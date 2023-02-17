@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [pocket #shorts](https://www.youtube.com/watch?v=bOh_7kPwTyE)
 - [başımız sağolsun](https://www.youtube.com/watch?v=u0wMt8RZJXc)
 - [onetab #shorts](https://www.youtube.com/watch?v=jRd_jUSrvzg)
 - [2fa #shorts](https://www.youtube.com/watch?v=e4lp7y__MdM)
 - [SQL Komutları:  Insert - Update - Delete,  DML &lpar;Data Manipulation Language&rpar;](https://www.youtube.com/watch?v=0XGSlAsyzoU)
-- [Brave #shorts](https://www.youtube.com/watch?v=rCDpluyV_1g)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
