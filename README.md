@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [grepper #shorts](https://www.youtube.com/watch?v=IZRFYuLUt1k)
 - [SQL Komutları:  Fonksiyonlar, avg, min, max , sum, count](https://www.youtube.com/watch?v=4JDPP-7UXA4)
 - [SSH Key Oluşturma](https://www.youtube.com/watch?v=sqxzzikJmRo)
 - [Linux Çok Zor!!](https://www.youtube.com/watch?v=-7K6luTTorE)
 - [pocket #shorts](https://www.youtube.com/watch?v=bOh_7kPwTyE)
-- [başımız sağolsun](https://www.youtube.com/watch?v=u0wMt8RZJXc)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
