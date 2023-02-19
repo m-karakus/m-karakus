@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [notion #shorts](https://www.youtube.com/watch?v=3oa3USPmiDo)
 - [VirtualBox’ta Disk Boyutu Nasıl Arttırılır?](https://www.youtube.com/watch?v=iC4QlofL2TU)
 - [grepper #shorts](https://www.youtube.com/watch?v=IZRFYuLUt1k)
 - [SQL Komutları:  Fonksiyonlar, avg, min, max , sum, count](https://www.youtube.com/watch?v=4JDPP-7UXA4)
 - [SSH Key Oluşturma](https://www.youtube.com/watch?v=sqxzzikJmRo)
-- [Linux Çok Zor!!](https://www.youtube.com/watch?v=-7K6luTTorE)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
