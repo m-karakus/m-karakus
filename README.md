@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [SQL Komutları: Grand ve Revoke](https://www.youtube.com/watch?v=JYyfVz0kyzw)
 - [awesome-screenshot #shorts](https://www.youtube.com/watch?v=o8ajL0iY2C4)
 - [eisenhower #shorts](https://www.youtube.com/watch?v=aEf4gUr-xiI)
 - [notion #shorts](https://www.youtube.com/watch?v=3oa3USPmiDo)
 - [VirtualBox’ta Disk Boyutu Nasıl Arttırılır?](https://www.youtube.com/watch?v=iC4QlofL2TU)
-- [grepper #shorts](https://www.youtube.com/watch?v=IZRFYuLUt1k)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
