@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Ben...](https://www.youtube.com/watch?v=uTRNsSi18bA)
 - [SQL Komutları: Views](https://www.youtube.com/watch?v=4zWXTNUXWJw)
 - [SQL Komutları: Grand ve Revoke](https://www.youtube.com/watch?v=JYyfVz0kyzw)
 - [awesome-screenshot #shorts](https://www.youtube.com/watch?v=o8ajL0iY2C4)
 - [eisenhower #shorts](https://www.youtube.com/watch?v=aEf4gUr-xiI)
-- [notion #shorts](https://www.youtube.com/watch?v=3oa3USPmiDo)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
