@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [SQL Komutları: Tablo Yapısı Nasıl Kurgulanır?](https://www.youtube.com/watch?v=7UJ0ssXZTkY)
 - [SQL Komutları:  Drop ve Truncate](https://www.youtube.com/watch?v=OMl9W_5WA5Y)
 - [SQL Komutları: Views](https://www.youtube.com/watch?v=4zWXTNUXWJw)
 - [SQL Komutları: Grand ve Revoke](https://www.youtube.com/watch?v=JYyfVz0kyzw)
 - [awesome-screenshot #shorts](https://www.youtube.com/watch?v=o8ajL0iY2C4)
-- [eisenhower #shorts](https://www.youtube.com/watch?v=aEf4gUr-xiI)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
