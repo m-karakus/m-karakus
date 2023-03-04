@@ -81,7 +81,7 @@
 
 <!-- YouTube:START -->
 - [SQL Komutları: Tablo Oluşturma](https://www.youtube.com/watch?v=JeSKgXkCTHU)
-- [obsidian - ikini bir beyin](https://www.youtube.com/watch?v=79kUMvzrKAg)
+- [obsidian - ikinci bir beyin](https://www.youtube.com/watch?v=79kUMvzrKAg)
 - [SQL Komutları: Tablo Yapısı Nasıl Kurgulanır?](https://www.youtube.com/watch?v=7UJ0ssXZTkY)
 - [SQL Komutları:  Drop ve Truncate](https://www.youtube.com/watch?v=OMl9W_5WA5Y)
 - [SQL Komutları: Views](https://www.youtube.com/watch?v=4zWXTNUXWJw)
