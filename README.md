@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [SQL Komutları: Transaction İşlemleri Begin - Commit - Rollback - Savepoint](https://www.youtube.com/watch?v=Cm2abmeRRPA)
 - [SQL Komutları: Tablo Oluşturma](https://www.youtube.com/watch?v=JeSKgXkCTHU)
 - [obsidian - ikinci bir beyin](https://www.youtube.com/watch?v=79kUMvzrKAg)
 - [SQL Komutları: Tablo Yapısı Nasıl Kurgulanır?](https://www.youtube.com/watch?v=7UJ0ssXZTkY)
 - [SQL Komutları:  Drop ve Truncate](https://www.youtube.com/watch?v=OMl9W_5WA5Y)
-- [SQL Komutları: Views](https://www.youtube.com/watch?v=4zWXTNUXWJw)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
