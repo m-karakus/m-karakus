@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Google Cloud &lpar;GCP&rpar; da Hesap Yönetimi ve Yetkiler](https://www.youtube.com/watch?v=noY7fSX6Yg8)
 - [Nedir bu Google Cloud?](https://www.youtube.com/watch?v=isoa-vOR9MQ)
+- [SQL de CTE kullanımı ile Bigquery ile Örnek Arama Trendi Analizi](https://www.youtube.com/watch?v=iOmLp5dMtB0)
+- [BigQuery](https://www.youtube.com/watch?v=zIOsqr4uWDU)
 - [Google Cloud hesabı nasıl açılır - GCP](https://www.youtube.com/watch?v=v2WeoluwQCk)
-- [SQL Komutları: Transaction İşlemleri Begin - Commit - Rollback - Savepoint](https://www.youtube.com/watch?v=Cm2abmeRRPA)
-- [SQL Komutları: Tablo Oluşturma](https://www.youtube.com/watch?v=JeSKgXkCTHU)
-- [obsidian - ikinci bir beyin](https://www.youtube.com/watch?v=79kUMvzrKAg)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
