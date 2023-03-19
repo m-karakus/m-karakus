@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [bulmaca #shorts](https://www.youtube.com/watch?v=EEuxc-agMfA)
 - [SQL de CTE kullanımı ile Bigquery ile Örnek Arama Trendi Analizi](https://www.youtube.com/watch?v=iOmLp5dMtB0)
 - [BigQuery](https://www.youtube.com/watch?v=zIOsqr4uWDU)
 - [Google Cloud &lpar;GCP&rpar; da Hesap Yönetimi ve Yetkiler](https://www.youtube.com/watch?v=noY7fSX6Yg8)
 - [Nedir bu Google Cloud?](https://www.youtube.com/watch?v=isoa-vOR9MQ)
-- [Google Cloud hesabı nasıl açılır - GCP](https://www.youtube.com/watch?v=v2WeoluwQCk)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
