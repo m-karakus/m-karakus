@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [hacklendik #shorts #pg #hacker #pgminer #postgres #mining](https://www.youtube.com/watch?v=J7IWFbp8HR8)
 - [Veri Görselleştirme Nedir? Neden Önemlidir? | Data Visualization](https://www.youtube.com/watch?v=9imLVCV5YVM)
 - [bulmaca #shorts](https://www.youtube.com/watch?v=EEuxc-agMfA)
 - [SQL de CTE kullanımı ile Bigquery ile Örnek Arama Trendi Analizi](https://www.youtube.com/watch?v=iOmLp5dMtB0)
 - [BigQuery](https://www.youtube.com/watch?v=zIOsqr4uWDU)
-- [Google Cloud &lpar;GCP&rpar; da Hesap Yönetimi ve Yetkiler](https://www.youtube.com/watch?v=noY7fSX6Yg8)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
