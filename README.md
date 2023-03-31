@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Apache Superset Nedir? Nasıl Kullanılır? Ne zaman Kullanmalı?](https://www.youtube.com/watch?v=7zfnaVVue9Y)
 - [Looker Studio | Data Studio ile Veri Görselleştirme](https://www.youtube.com/watch?v=DbOAlkvWEFI)
 - [Google Sheet İle Rapor Oluşturma | Diğer Tüm Adımlar](https://www.youtube.com/watch?v=HXfCNI-JDYc)
 - [hacklendik #shorts #pg #hacker #pgminer #postgres #mining](https://www.youtube.com/watch?v=J7IWFbp8HR8)
 - [Veri Görselleştirme Nedir? Neden Önemlidir? | Data Visualization](https://www.youtube.com/watch?v=9imLVCV5YVM)
-- [bulmaca #shorts](https://www.youtube.com/watch?v=EEuxc-agMfA)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
