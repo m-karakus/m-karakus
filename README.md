@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [powerbi #shorts](https://www.youtube.com/watch?v=E6za1STcX7w)
 - [looker #shorts](https://www.youtube.com/watch?v=W63hAyBtaZw)
 - [looker studio #shorts](https://www.youtube.com/watch?v=YFHmZkwpzqM)
 - [Power BI Nedir? Nasıl Kullanılır? Ne zaman Kullanmalısın? Nasıl indirilir? ve daha fazlası...](https://www.youtube.com/watch?v=qcB75opF9rg)
 - [Apache Superset Nedir? Nasıl Kullanılır? Ne zaman Kullanmalı?](https://www.youtube.com/watch?v=7zfnaVVue9Y)
-- [Looker Studio | Data Studio ile Veri Görselleştirme](https://www.youtube.com/watch?v=DbOAlkvWEFI)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
