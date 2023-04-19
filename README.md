@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [lightdash #shorts](https://www.youtube.com/watch?v=GHCu57KPhmU)
 - [metabase #shorts](https://www.youtube.com/watch?v=xzfIMZddYuo)
 - [dbt #shorts](https://www.youtube.com/watch?v=X7TaAhj9-U4)
 - [superset #shorts](https://www.youtube.com/watch?v=bSIJQbUTkig)
 - [powerbi #shorts](https://www.youtube.com/watch?v=E6za1STcX7w)
-- [looker #shorts](https://www.youtube.com/watch?v=W63hAyBtaZw)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
