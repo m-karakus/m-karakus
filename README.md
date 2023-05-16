@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Neden Arch Linux Kullanmamalısın?](https://www.youtube.com/watch?v=N1kYdG0j86Q)
 - [Artık Başvuru Zamanı... Neler yaptık, sonraki süreç ne olacak?](https://www.youtube.com/watch?v=2zd86u3BaYQ)
 - [lightdash #shorts](https://www.youtube.com/watch?v=GHCu57KPhmU)
 - [metabase #shorts](https://www.youtube.com/watch?v=xzfIMZddYuo)
 - [dbt #shorts](https://www.youtube.com/watch?v=X7TaAhj9-U4)
-- [superset #shorts](https://www.youtube.com/watch?v=bSIJQbUTkig)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
