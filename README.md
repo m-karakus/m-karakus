@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [İş Almanızı Sağlayacak CV Nasıl Hazırlanır?](https://www.youtube.com/watch?v=y_q76oYV2hU)
 - [Clonezilla ile Arch Linux Imaj Yükleme](https://www.youtube.com/watch?v=vwpCgN5dxXc)
 - [Neden Arch Linux Kullanmamalısın?](https://www.youtube.com/watch?v=N1kYdG0j86Q)
 - [Artık Başvuru Zamanı... Neler yaptık, sonraki süreç ne olacak?](https://www.youtube.com/watch?v=2zd86u3BaYQ)
 - [lightdash #shorts](https://www.youtube.com/watch?v=GHCu57KPhmU)
-- [metabase #shorts](https://www.youtube.com/watch?v=xzfIMZddYuo)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
