@@ -80,8 +80,8 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
-- [Arch Kurulum Part 2  | Standart Kurulum](https://www.youtube.com/watch?v=LsZz-r-r2Tk)
 - [İş Almanızı Sağlayacak CV Nasıl Hazırlanır?](https://www.youtube.com/watch?v=y_q76oYV2hU)
+- [Arch Kurulum Part 2  | Standart Kurulum](https://www.youtube.com/watch?v=LsZz-r-r2Tk)
 - [Arch Kurulum Part 4 | Xfce4 Kurulumu](https://www.youtube.com/watch?v=R4j62ayI6vA)
 - [Arch Kurulum Part 3 | DTOS Kurulumu &lpar;Xmonad&rpar;](https://www.youtube.com/watch?v=-XOh2QtC5Qk)
 - [Clonezilla ile Arch Linux Imaj Yükleme](https://www.youtube.com/watch?v=vwpCgN5dxXc)
