@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Yurtdışına Nasıl Çalışırım?  Online Çalışmak mı? Avrupa da çalışmak mı?](https://www.youtube.com/watch?v=xsVV7WrKy5A)
 - [LinkedIn Profilini Nasıl Düzenlemelisin? LinkedIn algoritması Nasıl Çalışır?](https://www.youtube.com/watch?v=mleTcZOcD68)
 - [İş Almanızı Sağlayacak CV Nasıl Hazırlanır?](https://www.youtube.com/watch?v=y_q76oYV2hU)
 - [Arch Kurulum Part 2  | Standart Kurulum](https://www.youtube.com/watch?v=LsZz-r-r2Tk)
 - [Arch Kurulum Part 4 | Xfce4 Kurulumu](https://www.youtube.com/watch?v=R4j62ayI6vA)
-- [Arch Kurulum Part 3 | DTOS Kurulumu &lpar;Xmonad&rpar;](https://www.youtube.com/watch?v=-XOh2QtC5Qk)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
