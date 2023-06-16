@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [02_Python&#39;da Değişkenler](https://www.youtube.com/watch?v=BJletCmGN6E)
+- [01_Python Nasıl İndirilir?](https://www.youtube.com/watch?v=npN2xyngkcA)
+- [03_Python&#39;da Sayılar](https://www.youtube.com/watch?v=4Nvlje0q-Qo)
 - [Neden Python Öğrenmelisin?](https://www.youtube.com/watch?v=9Fx1BYYCqWI)
 - [Upwork  Hesap Açma, Profili Oluşturma ve Diğer Tüyolar](https://www.youtube.com/watch?v=n3EY9fH1I1E)
-- [Upwork videosu kanalda](https://www.youtube.com/watch?v=gpgSIYrzkwM)
-- [Upwork Nedir? Online Nasıl Dolar kazanırsın?](https://www.youtube.com/watch?v=xoIGkj0Wots)
-- [Yurtdışına Nasıl Çalışırım?  Online Çalışmak mı? Avrupa da çalışmak mı? Yurt Dışına Nasıl Gidilir?](https://www.youtube.com/watch?v=xsVV7WrKy5A)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
