@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [05_Python&#39;da Listeler](https://www.youtube.com/watch?v=8b7gzO_252U)
+- [04_Python&#39;da String - Metinler](https://www.youtube.com/watch?v=dzurkz-A61w)
 - [02_Python&#39;da Değişkenler](https://www.youtube.com/watch?v=BJletCmGN6E)
 - [01_Python Nasıl İndirilir?](https://www.youtube.com/watch?v=npN2xyngkcA)
 - [03_Python&#39;da Sayılar](https://www.youtube.com/watch?v=4Nvlje0q-Qo)
-- [Neden Python Öğrenmelisin?](https://www.youtube.com/watch?v=9Fx1BYYCqWI)
-- [Upwork  Hesap Açma, Profili Oluşturma ve Diğer Tüyolar](https://www.youtube.com/watch?v=n3EY9fH1I1E)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
