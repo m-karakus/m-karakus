@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [08_Python&#39;da Döngüler - For ve While Döngüleri](https://www.youtube.com/watch?v=CHKX3ghD8Mg)
+- [06_Python&#39;da Debug Nasıl Yapılır?](https://www.youtube.com/watch?v=Myo6hY-liUc)
+- [07_Python&#39;da If  Kullanımı - Koşul Ifadeleri](https://www.youtube.com/watch?v=8jaliuPUijM)
 - [05_Python&#39;da Listeler](https://www.youtube.com/watch?v=8b7gzO_252U)
 - [04_Python&#39;da String - Metinler](https://www.youtube.com/watch?v=dzurkz-A61w)
-- [02_Python&#39;da Değişkenler](https://www.youtube.com/watch?v=BJletCmGN6E)
-- [01_Python Nasıl İndirilir?](https://www.youtube.com/watch?v=npN2xyngkcA)
-- [03_Python&#39;da Sayılar](https://www.youtube.com/watch?v=4Nvlje0q-Qo)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
