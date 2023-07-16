@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [13_Python&#39;da Modül Kullanımı](https://www.youtube.com/watch?v=0Yl6zt3xLJ8)
+- [12_Python&#39;da Modul İndirme](https://www.youtube.com/watch?v=aiOIA0eAkqU)
 - [11_Python&#39;da Tuple Kavramı](https://www.youtube.com/watch?v=FPgdi3Agdok)
-- [10_Python&#39;da Dictionary Kavramı](https://www.youtube.com/watch?v=WbBsfy5_DiM)
-- [09_Python&#39;da Fonksiyonlar](https://www.youtube.com/watch?v=jfxu3nqsQU4)
-- [Yapay Zeka ile Video&#39;dan Blog Yazısı Nasıl Oluşturulur?](https://www.youtube.com/watch?v=gaz8NCxB3vo)
-- [Yapay Zeka ile 20 dk da CV 🚀](https://www.youtube.com/watch?v=IYPii6n5SxQ)
+- [Python Eğitim Serisi | 10_Python&#39;da Dictionary Kavramı](https://www.youtube.com/watch?v=WbBsfy5_DiM)
+- [Python Eğitim Serisi | 09_Python&#39;da Fonksiyonlar](https://www.youtube.com/watch?v=jfxu3nqsQU4)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
