@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [11_Python&#39;da Tuple Kavramı](https://www.youtube.com/watch?v=FPgdi3Agdok)
+- [10_Python&#39;da Dictionary Kavramı](https://www.youtube.com/watch?v=WbBsfy5_DiM)
 - [09_Python&#39;da Fonksiyonlar](https://www.youtube.com/watch?v=jfxu3nqsQU4)
 - [Yapay Zeka ile Video&#39;dan Blog Yazısı Nasıl Oluşturulur?](https://www.youtube.com/watch?v=gaz8NCxB3vo)
 - [Yapay Zeka ile 20 dk da CV 🚀](https://www.youtube.com/watch?v=IYPii6n5SxQ)
-- [08_Python&#39;da Döngüler - For ve While Döngüleri](https://www.youtube.com/watch?v=CHKX3ghD8Mg)
-- [06_Python&#39;da Debug Nasıl Yapılır?](https://www.youtube.com/watch?v=Myo6hY-liUc)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
