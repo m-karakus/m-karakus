@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Python Eğitim Serisi | 16 Python&#39;da Exception Handling](https://www.youtube.com/watch?v=hPH7yJBRPJ8)
+- [Python Eğitim Serisi | 15 Python&#39;da if __name__ == &quot;__main__&quot;](https://www.youtube.com/watch?v=sfFqowcXuzY)
 - [Python Eğitim Serisi | 14_Python&#39;da Json Kullanımı](https://www.youtube.com/watch?v=Tk0Lm8W3qWs)
 - [Python Eğitim Serisi | 13_Python&#39;da Modül Kullanımı](https://www.youtube.com/watch?v=0Yl6zt3xLJ8)
 - [Python Eğitim Serisi | 12_Python&#39;da Modul İndirme](https://www.youtube.com/watch?v=aiOIA0eAkqU)
-- [Python Eğitim Serisi | 11_Python&#39;da Tuple Kavramı](https://www.youtube.com/watch?v=FPgdi3Agdok)
-- [Python Eğitim Serisi | 10_Python&#39;da Dictionary Kavramı](https://www.youtube.com/watch?v=WbBsfy5_DiM)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
