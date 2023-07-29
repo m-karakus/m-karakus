@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Nasıl Diyetisyen Olunur? Beslenme ve Diyetetik Bölümü Nedir?](https://www.youtube.com/watch?v=OwdttgYjCck)
 - [Neden Endüstri Mühendisliği Bölüm 2 | Üniversite ve Kariyer: Kararsızlık ve Geleceğin Mesleği](https://www.youtube.com/watch?v=GR3dUuGAFTQ)
 - [Neden Endüstri Mühendisliği Seçmemelisin?](https://www.youtube.com/watch?v=ha7Hai4k2Iw)
 - [Python Eğitim Serisi | 23_Python da Argparse Kullanarak Konut Satırı Parametrelerini Okumak](https://www.youtube.com/watch?v=MRuj3TOCdGM)
 - [Python Eğitim Serisi | 24_Python da Decorators](https://www.youtube.com/watch?v=dT6gIsuPIGQ)
-- [Python Eğitim Serisi | 20_Python da Generator Kavramı](https://www.youtube.com/watch?v=uKXGLLD4nJM)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
