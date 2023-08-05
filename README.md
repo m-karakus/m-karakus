@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Python Eğitim Serisi | 26_Python da Multiprocessing ve Multithreading Farkı](https://www.youtube.com/watch?v=Oi7z_bgMe-8)
 - [İş Başvurularınızı Katlayın, İş Arayanlar İçin LinkedIn Otomatik Başvuru Botu: 1 Gecede 1000 Başvuru](https://www.youtube.com/watch?v=CsBrT2m70XQ)
 - [Disney+ Ne Yapmaya Çalışıyor? Netflix Spotify Youtube Streaming Platformlarının gücü nereden geliyor](https://www.youtube.com/watch?v=oaWtVZlHnAY)
 - [Python Eğitim Serisi | 25_Python da Multithreading](https://www.youtube.com/watch?v=aYzDtXEBqRI)
 - [Nasıl Diyetisyen Olunur? Beslenme ve Diyetetik Bölümü Nedir?](https://www.youtube.com/watch?v=OwdttgYjCck)
-- [Neden Endüstri Mühendisliği Bölüm 2 | Üniversite ve Kariyer: Kararsızlık ve Geleceğin Mesleği](https://www.youtube.com/watch?v=GR3dUuGAFTQ)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
