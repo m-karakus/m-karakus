@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Python Eğitim Serisi | 31_Python da Multiprocessing  - Pool](https://www.youtube.com/watch?v=55T3v9mo_lQ)
 - [Python Eğitim Serisi | 28_Python da Multiprocessing Veri Okuma   Memory Share](https://www.youtube.com/watch?v=2fKLgndo9fo)
 - [Python Eğitim Serisi | 30_Python da Multiprocessing - Lock](https://www.youtube.com/watch?v=W1rzu-jb3SI)
 - [Python Eğitim Serisi | 29_Python da Multiprocessing Veri Okuma - Queue](https://www.youtube.com/watch?v=TqcQ-jvt3iE)
 - [Python Eğitim Serisi | 27_Python da Multiprocessing](https://www.youtube.com/watch?v=Z5qNSDJLuLI)
-- [Python Eğitim Serisi | 26_Python da Multiprocessing ve Multithreading Farkı](https://www.youtube.com/watch?v=Oi7z_bgMe-8)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
