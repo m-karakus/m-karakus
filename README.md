@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Veri Bilimci vs Veri Analisti vs Veri Mühendisi aralarındaki farklar neler?](https://www.youtube.com/watch?v=IL31Fg84cd8)
 - [5 maddede Neden Python #shorts](https://www.youtube.com/watch?v=ApLGyvfsmi4)
 - [Python Eğitim Serisi | 31_Python da Multiprocessing  - Pool](https://www.youtube.com/watch?v=55T3v9mo_lQ)
 - [Python Eğitim Serisi | 28_Python da Multiprocessing Veri Okuma   Memory Share](https://www.youtube.com/watch?v=2fKLgndo9fo)
 - [Python Eğitim Serisi | 30_Python da Multiprocessing - Lock](https://www.youtube.com/watch?v=W1rzu-jb3SI)
-- [Python Eğitim Serisi | 29_Python da Multiprocessing Veri Okuma - Queue](https://www.youtube.com/watch?v=TqcQ-jvt3iE)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
