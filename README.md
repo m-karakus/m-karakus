@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Numpy Eğitim Serisi | 01 Numpy Giriş](https://www.youtube.com/watch?v=s54cN1JJ4tc)
 - [Jupyter Notebook Eğitimi](https://www.youtube.com/watch?v=BTt9d9grLT4)
 - [Jupyter Notebook Nedir?](https://www.youtube.com/watch?v=tCe_rkEj1Wo)
 - [Veri Bilimci vs Veri Analisti vs Veri Mühendisi aralarındaki farklar neler?](https://www.youtube.com/watch?v=IL31Fg84cd8)
 - [5 maddede Neden Python #shorts](https://www.youtube.com/watch?v=ApLGyvfsmi4)
-- [Python Eğitim Serisi | 31_Python da Multiprocessing  - Pool](https://www.youtube.com/watch?v=55T3v9mo_lQ)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
