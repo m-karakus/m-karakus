@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Matplotlib Eğitim Serisi | 04 Matplotlib Bar Chart](https://www.youtube.com/watch?v=EhmeGP5MaPs)
+- [Matplotlib Eğitim Serisi | 03 Matplotlib Axes labels, Legend, Grid](https://www.youtube.com/watch?v=7aOB6mvWBno)
 - [Matplotlib Eğitim Serisi | 01 Matplotlib Giriş](https://www.youtube.com/watch?v=6tEKjoO7xW0)
 - [Matplotlib Eğitim Serisi | 02 Matplotlib Format String ve Parametreler](https://www.youtube.com/watch?v=meY2CXo4jwE)
 - [Numpy Eğitim Serisi | 04 Numpy nditer ile İterasyon](https://www.youtube.com/watch?v=xJ3e7QkFPp4)
-- [Numpy Eğitim Serisi | 03 Numpy Index ve Diğer İşlemler](https://www.youtube.com/watch?v=jwNrTHOqLJQ)
-- [Numpy Eğitim Serisi | 02 Numpy Basit Operasyonlar](https://www.youtube.com/watch?v=W0fS1xX_Pe0)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
