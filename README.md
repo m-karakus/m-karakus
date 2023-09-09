@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Pandas Eğitim Serisi | 03 Dataframe Oluşturma Yöntemleri](https://www.youtube.com/watch?v=CFEi_FPnlNM)
 - [Pandas Eğitim Serisi | 02 Dataframe Genel Yapı](https://www.youtube.com/watch?v=Ge2ZT8X2QK0)
 - [Pandas Eğitim Serisi | 01 Pandas Nedir?](https://www.youtube.com/watch?v=H-pjymgPJVA)
 - [Upwork Virüs_Trojan.EXE - Hack Geliyorum dedi.. Para kazanacam derken eldekinden olma](https://www.youtube.com/watch?v=XfcYUr0QBLM)
 - [Matplotlib Eğitim Serisi | 05 Histogram](https://www.youtube.com/watch?v=aa282c3Ripc)
-- [Matplotlib Eğitim Serisi | 06 Pie Chart - Pasta Grafik](https://www.youtube.com/watch?v=zOOZjpyxfys)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
