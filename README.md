@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Pandas Eğitim Serisi | 05 Eksik Veriler ile İşlemler](https://www.youtube.com/watch?v=LmaSMRS0V14)
 - [Pandas Eğitim Serisi | 04 CSV ve Excel den Veri Okuma](https://www.youtube.com/watch?v=DS00zSnj3-A)
 - [Pandas Eğitim Serisi | 03 Dataframe Oluşturma Yöntemleri](https://www.youtube.com/watch?v=CFEi_FPnlNM)
 - [Pandas Eğitim Serisi | 02 Dataframe Genel Yapı](https://www.youtube.com/watch?v=Ge2ZT8X2QK0)
 - [Pandas Eğitim Serisi | 01 Pandas Nedir?](https://www.youtube.com/watch?v=H-pjymgPJVA)
-- [Upwork Virüs_Trojan.EXE - Hack Geliyorum dedi.. Para kazanacam derken eldekinden olma](https://www.youtube.com/watch?v=XfcYUr0QBLM)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
