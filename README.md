@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Pandas Eğitim Serisi | 10 Pivot ve Pivot Table Fonksiyonu](https://www.youtube.com/watch?v=9JWjFRCCQRc)
+- [Pandas Eğitim Serisi | 12 Stack Fonksiyonu](https://www.youtube.com/watch?v=bSgjpK40TJM)
+- [Pandas Eğitim Serisi | 11 Melt Fonksiyonu](https://www.youtube.com/watch?v=FPvFgVkw8Ec)
 - [Pandas Eğitim Serisi | 08 Concat Fonksiyonu](https://www.youtube.com/watch?v=Pwv3QHHqAu4)
 - [Pandas Eğitim Serisi | 07 GroupBy Fonksiyonu](https://www.youtube.com/watch?v=Wu7GiWy8Jag)
-- [Pandas Eğitim Serisi | 09 Merge Fonksiyonu](https://www.youtube.com/watch?v=W44U8r36vlE)
-- [Pandas Eğitim Serisi | 06 replace komutu](https://www.youtube.com/watch?v=STQsSMex0FQ)
-- [Pandas Eğitim Serisi | 05 Eksik Veriler ile İşlemler](https://www.youtube.com/watch?v=LmaSMRS0V14)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
