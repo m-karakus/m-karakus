@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Python ile Makine Öğrenmesi | 01 Makine Öğrenmesi Nedir?](https://www.youtube.com/watch?v=upKIz59IXhE)
 - [#shorts  Makine Öğrenmesi Eğitim Serisi Başlıyor #python #pythonprogramming #excel #ml #ai #coding](https://www.youtube.com/watch?v=kUZzOrP66mI)
 - [Pandas Eğitim Serisi | 14 Memory Kullanımında Dikkat Edilmesi Gerekenler](https://www.youtube.com/watch?v=3OoKWG5HSbc)
 - [Pandas Eğitim Serisi | 13 Crosstab Fonksiyonu](https://www.youtube.com/watch?v=0axcx5O5N_Q)
 - [Pandas Eğitim Serisi | 10 Pivot ve Pivot Table Fonksiyonu](https://www.youtube.com/watch?v=9JWjFRCCQRc)
-- [Pandas Eğitim Serisi | 12 Stack Fonksiyonu](https://www.youtube.com/watch?v=bSgjpK40TJM)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
