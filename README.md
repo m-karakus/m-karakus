@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Hızlı İş Bulma Projesi 02](https://www.youtube.com/watch?v=Cyb1XLMOg6U)
 - [Hızlı Iş Bulma Projesi 01](https://www.youtube.com/watch?v=lS6rGuAqMKM)
 - [Python ile Makine Öğrenmesi | 01 Makine Öğrenmesi Nedir?](https://www.youtube.com/watch?v=upKIz59IXhE)
 - [#shorts  Makine Öğrenmesi Eğitim Serisi Başlıyor #python #pythonprogramming #excel #ml #ai #coding](https://www.youtube.com/watch?v=kUZzOrP66mI)
 - [Pandas Eğitim Serisi | 14 Memory Kullanımında Dikkat Edilmesi Gerekenler](https://www.youtube.com/watch?v=3OoKWG5HSbc)
-- [Pandas Eğitim Serisi | 13 Crosstab Fonksiyonu](https://www.youtube.com/watch?v=0axcx5O5N_Q)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
