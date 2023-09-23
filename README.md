@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Python ile Makine Öğrenmesi | 04 Joblib ve Pickle](https://www.youtube.com/watch?v=EOzvxKC-5hs)
 - [Python ile Makine Öğrenmesi | 03 Çoklu Doğrusal Regresyon](https://www.youtube.com/watch?v=t6y4S0xH6oo)
 - [Python ile Makine Öğrenmesi | 02 Doğrusal Regresyon](https://www.youtube.com/watch?v=voGLk6rreO8)
 - [Hızlı İş Bulma Projesi 02](https://www.youtube.com/watch?v=Cyb1XLMOg6U)
 - [Hızlı Iş Bulma Projesi 01](https://www.youtube.com/watch?v=lS6rGuAqMKM)
-- [Python ile Makine Öğrenmesi | 01 Makine Öğrenmesi Nedir?](https://www.youtube.com/watch?v=upKIz59IXhE)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
