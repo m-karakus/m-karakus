@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Python ile Makine Öğrenmesi | 10 SVM   Support Vector Machine Destek Vektör Makineleri](https://www.youtube.com/watch?v=uHh5Mo2_lUE)
 - [Python ile Makine Öğrenmesi | 09 Karar Ağacı - Decision Tree](https://www.youtube.com/watch?v=NcylBLpfyM4)
 - [Python ile Makine Öğrenmesi | 08 Lojistik Regresyon Multiclass Classification &lpar;Çoklu Sınıflandırma&rpar;](https://www.youtube.com/watch?v=WvxyeK5X5HQ)
 - [Python ile Makine Öğrenmesi | 07 Lojistik Regresyon](https://www.youtube.com/watch?v=NwjjLAkHoxc)
 - [Python ile Makine Öğrenmesi | 06 Train - Test Split &lpar;Eğitim/Test Seti Ayrımı&rpar;](https://www.youtube.com/watch?v=aMtZhzy1d4s)
-- [Python ile Makine Öğrenmesi | 05 One Hot Encoder ve Get Dummies](https://www.youtube.com/watch?v=eG9_RxM_7_E)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
