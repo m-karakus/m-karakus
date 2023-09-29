@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Python ile Makine Öğrenmesi | 12 K Fold Cross Validation K Katmanlı Çapraz Doğrulama](https://www.youtube.com/watch?v=iKCDmqgO3mk)
 - [Python ile Makine Öğrenmesi | 11 Random Forest Rastgele orman](https://www.youtube.com/watch?v=sYgMg4iME_o)
 - [Python ile Makine Öğrenmesi | 10 SVM   Support Vector Machine Destek Vektör Makineleri](https://www.youtube.com/watch?v=uHh5Mo2_lUE)
 - [Python ile Makine Öğrenmesi | 09 Karar Ağacı - Decision Tree](https://www.youtube.com/watch?v=NcylBLpfyM4)
 - [Python ile Makine Öğrenmesi | 08 Lojistik Regresyon Multiclass Classification &lpar;Çoklu Sınıflandırma&rpar;](https://www.youtube.com/watch?v=WvxyeK5X5HQ)
-- [Python ile Makine Öğrenmesi | 07 Lojistik Regresyon](https://www.youtube.com/watch?v=NwjjLAkHoxc)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
