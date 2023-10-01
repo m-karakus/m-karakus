@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Python ile Makine Öğrenmesi | 14 Naive Bayes Classifier Algorithm Part 01](https://www.youtube.com/watch?v=BE78nReSXcw)
 - [Python ile Makine Öğrenmesi | 13 K Means Clustering Algorithm](https://www.youtube.com/watch?v=D74_9HLkESc)
 - [Python ile Makine Öğrenmesi | 12 K Fold Cross Validation K Katmanlı Çapraz Doğrulama](https://www.youtube.com/watch?v=iKCDmqgO3mk)
 - [Python ile Makine Öğrenmesi | 11 Random Forest Rastgele orman](https://www.youtube.com/watch?v=sYgMg4iME_o)
 - [Python ile Makine Öğrenmesi | 10 SVM   Support Vector Machine Destek Vektör Makineleri](https://www.youtube.com/watch?v=uHh5Mo2_lUE)
-- [Python ile Makine Öğrenmesi | 09 Karar Ağacı - Decision Tree](https://www.youtube.com/watch?v=NcylBLpfyM4)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
