@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Python ile Makine Öğrenmesi | 17 L1 and L2 Regularization Lasso, Ridge Regression](https://www.youtube.com/watch?v=N8QZdXESoBM)
 - [Python ile Makine Öğrenmesi | 16 Hyper parameter Tuning GridSearchCV](https://www.youtube.com/watch?v=2bgbeQHm5fw)
 - [Python ile Makine Öğrenmesi | 15 Naive Bayes Classifier Algorithm Part 02](https://www.youtube.com/watch?v=FrbGSFQXmto)
 - [Python ile Makine Öğrenmesi | 14 Naive Bayes Classifier Algorithm Part 01](https://www.youtube.com/watch?v=BE78nReSXcw)
 - [Python ile Makine Öğrenmesi | 13 K Means Clustering Algorithm](https://www.youtube.com/watch?v=D74_9HLkESc)
-- [Python ile Makine Öğrenmesi | 12 K Fold Cross Validation K Katmanlı Çapraz Doğrulama](https://www.youtube.com/watch?v=iKCDmqgO3mk)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
