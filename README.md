@@ -80,11 +80,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Python ile Makine Öğrenmesi | 20 Ensemble Learning   Bagging](https://www.youtube.com/watch?v=ufUNVfzuSMI)
 - [Python ile Makine Öğrenmesi | 19 PCA   Principle Component Analysis](https://www.youtube.com/watch?v=FAYCbM5DHnM)
 - [Python ile Makine Öğrenmesi | 18 K nearest neighbors classification](https://www.youtube.com/watch?v=jTFhpcj_PBE)
 - [Python ile Makine Öğrenmesi | 17 L1 and L2 Regularization Lasso, Ridge Regression](https://www.youtube.com/watch?v=N8QZdXESoBM)
 - [Python ile Makine Öğrenmesi | 16 Hyper parameter Tuning GridSearchCV](https://www.youtube.com/watch?v=2bgbeQHm5fw)
-- [Python ile Makine Öğrenmesi | 15 Naive Bayes Classifier Algorithm Part 02](https://www.youtube.com/watch?v=FrbGSFQXmto)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
