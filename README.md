@@ -1,10 +1,9 @@
 ### Hi there, I'm [Metin][linkedin] 👋 
 
-## I'm a Data Analyst
+## I'm a Data Professional
 
-- 💪 I am an expert data scientist/data analysts
+- 💪 I am an expert in the data area...
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
