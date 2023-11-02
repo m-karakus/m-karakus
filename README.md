@@ -79,11 +79,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Feature Engineering | 03 Outliers Detection Z Testi](https://www.youtube.com/watch?v=pFCOfatVHYg)
 - [Feature Engineering | 02 Outliers Detection Percentile   Quantile](https://www.youtube.com/watch?v=Xx5b4oXvHaw)
 - [Cumhuriyetimizin 100. Yılı Kutlu Olsun!](https://www.youtube.com/watch?v=0LIcdYdjIlw)
 - [Feature Engineering | 01 Feature Engineering Nedir?](https://www.youtube.com/watch?v=sdV52bUzXb8)
 - [Python ile Makine Öğrenmesi | 20 Ensemble Learning   Bagging](https://www.youtube.com/watch?v=ufUNVfzuSMI)
-- [Python ile Makine Öğrenmesi | 19 PCA   Principle Component Analysis](https://www.youtube.com/watch?v=FAYCbM5DHnM)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
