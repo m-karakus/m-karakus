@@ -79,11 +79,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Makine Öğrenmesi | Konut Fiyat Tahminlemesi Projesi | 04 Model Oluşturma](https://www.youtube.com/watch?v=TIzPLTAq7Tc)
 - [Makine Öğrenmesi | Konut Fiyat Tahminlemesi Projesi | 03 Outlier Temizleme](https://www.youtube.com/watch?v=NglPSXT6-2I)
 - [Makine Öğrenmesi | Konut Fiyat Tahminlemesi Projesi | 02 Feature Engineering](https://www.youtube.com/watch?v=25aKbKFltPA)
 - [Makine Öğrenmesi | Konut Fiyat Tahminlemesi Projesi | 01 Veri Temizleme](https://www.youtube.com/watch?v=aHKxxsukVnk)
 - [Makine Öğrenmesi | Konut Fiyat Tahminlemesi Projesi | Giriş](https://www.youtube.com/watch?v=GiDIJpDsYGY)
-- [Feature Engineering | 04 Outliers Detection IQR Yöntemi](https://www.youtube.com/watch?v=7zZ2iYBP7R8)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
