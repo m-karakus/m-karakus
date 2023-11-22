@@ -79,11 +79,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Beleş VPN Videosu Ayağınıza Geldi... AWS - WireGuard - Pihole - Unbound](https://www.youtube.com/watch?v=Q0c9Lm4NYS8)
 - [Makine Öğrenmesi | Konut Fiyat Tahminlemesi Projesi | 05 Frontend ve Backend](https://www.youtube.com/watch?v=qGhtTTDrzQ8)
 - [Makine Öğrenmesi | Konut Fiyat Tahminlemesi Projesi | 04 Model Oluşturma](https://www.youtube.com/watch?v=TIzPLTAq7Tc)
 - [Makine Öğrenmesi | Konut Fiyat Tahminlemesi Projesi | 03 Outlier Temizleme](https://www.youtube.com/watch?v=NglPSXT6-2I)
 - [Makine Öğrenmesi | Konut Fiyat Tahminlemesi Projesi | 02 Feature Engineering](https://www.youtube.com/watch?v=25aKbKFltPA)
-- [Makine Öğrenmesi | Konut Fiyat Tahminlemesi Projesi | 01 Veri Temizleme](https://www.youtube.com/watch?v=aHKxxsukVnk)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
