@@ -79,11 +79,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Deep Learning | 03 Nöron Nedir?](https://www.youtube.com/watch?v=runcNsmOhcQ)
 - [Deep Learning | 02 Yapayzeka Neden Bu Kadar Popüler?](https://www.youtube.com/watch?v=pZ1xpVVyQ_g)
 - [Deep Learning | 01 Giriş](https://www.youtube.com/watch?v=_FP_nZS9GFE)
 - [İdeal Ürün Geliştirme Ortamı Nasıl Olmalı? Bulut Sistem Mimarisi Nasıl Kurgulanmalı? | Ansible](https://www.youtube.com/watch?v=2Ae05b0HDvA)
 - [Google&#39;ın Çok Gizli İşe Alım Programı 🕵️ | foobar](https://www.youtube.com/watch?v=pQOnm74bYY8)
-- [Beleş VPN Videosu Ayağınıza Geldi... AWS - WireGuard - Pihole - Unbound](https://www.youtube.com/watch?v=Q0c9Lm4NYS8)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
