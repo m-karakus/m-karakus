@@ -79,11 +79,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Deep Learning | 05 Tensorflow Nasıl Kurulur?](https://www.youtube.com/watch?v=DUTYHN7OqhE)
 - [Deep Learning | 04 Yapay Sinir Ağları Nasıl Çalışır? &lpar;Neural Network&rpar;](https://www.youtube.com/watch?v=Uhu3Xw6_9q4)
 - [Deep Learning | 03 Nöron Nedir?](https://www.youtube.com/watch?v=runcNsmOhcQ)
 - [Deep Learning | 02 Yapayzeka Neden Bu Kadar Popüler?](https://www.youtube.com/watch?v=pZ1xpVVyQ_g)
 - [Deep Learning | 01 Giriş](https://www.youtube.com/watch?v=_FP_nZS9GFE)
-- [İdeal Ürün Geliştirme Ortamı Nasıl Olmalı? Bulut Sistem Mimarisi Nasıl Kurgulanmalı? | Ansible](https://www.youtube.com/watch?v=2Ae05b0HDvA)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
