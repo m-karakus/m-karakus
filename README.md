@@ -10,8 +10,10 @@
 [<img align="left" alt="m-karakus | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="m-karakus | YouTube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
 [<img align="left" alt="m-karakus | Kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
+<!--
 [<img align="left" alt="m-karakus | Twitch" src="https://img.shields.io/badge/twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />][twitch]
 [<img align="left" alt="m-karakus | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+-->
 [<img align="left" alt="m-karakus | Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 
 <br />
