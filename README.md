@@ -81,11 +81,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Deep Learning | 06 Tensorflow vs Pytorch vs Keras](https://www.youtube.com/watch?v=RMIHeai13hE)
 - [Aile Birleşimi ve Avrupadan Dönüşüm...](https://www.youtube.com/watch?v=27ZcSMEw3GU)
 - [Deep Learning | 05 Tensorflow Nasıl Kurulur?](https://www.youtube.com/watch?v=DUTYHN7OqhE)
 - [Deep Learning | 04 Yapay Sinir Ağları Nasıl Çalışır? &lpar;Neural Network&rpar;](https://www.youtube.com/watch?v=Uhu3Xw6_9q4)
 - [Deep Learning | 03 Nöron Nedir?](https://www.youtube.com/watch?v=runcNsmOhcQ)
-- [Deep Learning | 02 Yapayzeka Neden Bu Kadar Popüler?](https://www.youtube.com/watch?v=pZ1xpVVyQ_g)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
