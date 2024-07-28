@@ -81,11 +81,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Deep Learning | 09 GPU vs CPU](https://www.youtube.com/watch?v=pSA4E0bsxbU)
 - [Deep Learning | 08 TensorBoard Kullanımı](https://www.youtube.com/watch?v=nGSF3TcSRJg)
 - [Deep Learning | 07 El Yazısı Rakamlarını Derin Öğrenme ile Tahminleme](https://www.youtube.com/watch?v=aC1FChMFy-k)
 - [Deep Learning | 06 Tensorflow vs Pytorch vs Keras](https://www.youtube.com/watch?v=RMIHeai13hE)
 - [Aile Birleşimi ve Avrupadan Dönüşüm...](https://www.youtube.com/watch?v=27ZcSMEw3GU)
-- [Deep Learning | 05 Tensorflow Nasıl Kurulur?](https://www.youtube.com/watch?v=DUTYHN7OqhE)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
