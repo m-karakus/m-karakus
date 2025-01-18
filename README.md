@@ -81,11 +81,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Deep Learning | 12 Imbalanced Dataset](https://www.youtube.com/watch?v=EtYLa6GJonY)
 - [Pandas vs Polars vs Dask vs PySpark](https://www.youtube.com/watch?v=wU2tj-167Xg)
 - [Deep Learning | 11 Deniz Mayını mi Yoksa Kaya mı? | Dropout Formülü](https://www.youtube.com/watch?v=uQ0usl2h9VY)
 - [Deep Learning | 10 Churn Score Hesaplaması Nasıl Yapılır?](https://www.youtube.com/watch?v=AHbsJQefRqc)
 - [Deep Learning | 09 GPU vs CPU](https://www.youtube.com/watch?v=pSA4E0bsxbU)
-- [Deep Learning | 08 TensorBoard Kullanımı](https://www.youtube.com/watch?v=nGSF3TcSRJg)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
