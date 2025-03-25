@@ -81,7 +81,7 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
-- [Turkieyeden Neden Yapay Zeka Şirketi Çıkmiyor, Çıkmayacak | ChatGPT | OpenIA | DeepSeek](https://www.youtube.com/watch?v=s6-ZQWmPJgo)
+- [Türkiye&#39;den Neden Yapay Zeka Şirketi Çıkmiyor, Çıkmayacak | ChatGPT | OpenIA | DeepSeek](https://www.youtube.com/watch?v=s6-ZQWmPJgo)
 - [Ayda 200$ verme ChatGPT&#39;yi Bilgisayarına Kur! Local AI Rehberi | DeepSeek](https://www.youtube.com/watch?v=gfFPkih7W9c)
 - [Deep Learning | 12 Imbalanced Dataset](https://www.youtube.com/watch?v=EtYLa6GJonY)
 - [Pandas vs Polars vs Dask vs PySpark](https://www.youtube.com/watch?v=wU2tj-167Xg)
