@@ -81,11 +81,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [Yapay Zeka Çağında Meslek Seçimi Nasıl Olmalı](https://www.youtube.com/watch?v=B4St7tMF6n4)
 - [Türkiye&#39;den Neden Yapay Zeka Şirketi Çıkmiyor, Çıkmayacak | ChatGPT | OpenIA | DeepSeek](https://www.youtube.com/watch?v=s6-ZQWmPJgo)
 - [Ayda 200$ verme ChatGPT&#39;yi Bilgisayarına Kur! Local AI Rehberi | DeepSeek](https://www.youtube.com/watch?v=gfFPkih7W9c)
 - [Deep Learning | 12 Imbalanced Dataset](https://www.youtube.com/watch?v=EtYLa6GJonY)
 - [Pandas vs Polars vs Dask vs PySpark](https://www.youtube.com/watch?v=wU2tj-167Xg)
-- [Deep Learning | 11 Deniz Mayını mi Yoksa Kaya mı? | Dropout Formülü](https://www.youtube.com/watch?v=uQ0usl2h9VY)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
