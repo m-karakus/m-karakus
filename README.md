@@ -81,11 +81,11 @@
 ### ▶️ Latest YouTube Videos Turkish
 
 <!-- YouTube:START -->
+- [E kitap Okuyucu ve Korsan Kitap Üzerine Düşüncelerim](https://www.youtube.com/watch?v=6wW3FCObNrI)
 - [Computer Vision Nedir, Nerelerde kullanılır?](https://www.youtube.com/watch?v=wubnnhFISTU)
 - [Yapay Zeka Çağında Meslek Seçimi Nasıl Olmalı](https://www.youtube.com/watch?v=B4St7tMF6n4)
 - [Türkiye&#39;den Neden Yapay Zeka Şirketi Çıkmiyor, Çıkmayacak | ChatGPT | OpenIA | DeepSeek](https://www.youtube.com/watch?v=s6-ZQWmPJgo)
 - [Ayda 200$ verme ChatGPT&#39;yi Bilgisayarına Kur! Local AI Rehberi | DeepSeek](https://www.youtube.com/watch?v=gfFPkih7W9c)
-- [Deep Learning | 12 Imbalanced Dataset](https://www.youtube.com/watch?v=EtYLa6GJonY)
 <!-- YouTube:END -->
 
 ### ▶️ Latest YouTube Videos English
